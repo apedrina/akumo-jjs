@@ -4,7 +4,7 @@
 ## What is it?
 This is an example of Spring Shell wrote in Java.
 
-# Requerment
+# Requirement
 Add below dependency to pom file:
 
 ```XML
