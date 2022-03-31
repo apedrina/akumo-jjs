@@ -1,0 +1,15 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Î÷Ş’üÿÿÿÿ8ìü§€ü/
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(¾›™„øÿÿÿÿ8ÿü§€ü/
+{
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ı§€ü/
+^
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(›º•8„ı§€ü/
+W	java:S1258"<This block of commented-out lines of code should be removed.(úÁ…R8ı§€ü/
+X	java:S125T"<This block of commented-out lines of code should be removed.(áœ·£8“ı§€ü/
+J
+java:S1068"(Remove this unused "list" private field.(Î÷Ş’üÿÿÿÿ8˜ı§€ü/
+J
+java:S1144"-Remove this unused private "setValue" method.(ûüìş8˜ı§€ü/

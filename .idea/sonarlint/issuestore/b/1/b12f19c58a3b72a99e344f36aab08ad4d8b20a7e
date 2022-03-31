@@ -1,0 +1,68 @@
+
+i
+java:S1845&"SRename method "console" to prevent any misunderstanding/clash with field "console".(€ñÓô
+J
+java:S3010!"(Remove this assignment of "projectPath".(ú’×²þÿÿÿÿ8¡â€¹ü/
+W
+java:S2209!"5Change this instance-reference to a static reference.(ú’×²þÿÿÿÿ8§â€¹ü/
+L
+java:S2696-"6Make the enclosing method "static" or remove this set.(ìí´Ò
+L
+java:S2696U"6Make the enclosing method "static" or remove this set.(ù×ä­
+Q
+java:S2696q"6Make the enclosing method "static" or remove this set.(èÔ¨Äÿÿÿÿÿ
+Q
+java:S2696u"6Make the enclosing method "static" or remove this set.(“Ñ¾†úÿÿÿÿ
+L
+java:S2696v"6Make the enclosing method "static" or remove this set.(Ãìš‚
+q
+java:S3252x"[Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_ALWAYS".(þç¨ô
+t
+java:S3252y"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(Þ˜ä‘úÿÿÿÿ
+V	java:S125~"<This block of commented-out lines of code should be removed.(Åˆàþÿÿÿÿ
+N
+java:S1068"1Remove this unused "comboLanguage" private field.(©¤ýÔ8öòÂ¸ü/
+C
+java:S1604C"(Make this anonymous inner class a lambda(‰ùÑóþÿÿÿÿ
+D
+java:S1604Š"(Make this anonymous inner class a lambda(»ÛÑûÿÿÿÿ
+h
+java:S1104"RMake editor a static final constant or non-public and provide accessors if needed.(°ÇÖØ
+t
+java:S1104"^Make scrollableTextArea a static final constant or non-public and provide accessors if needed.(Ö¾·‚
+o
+java:S1104"YMake treeViewPanel a static final constant or non-public and provide accessors if needed.(Ú¨œõ
+h
+java:S1104"SMake console a static final constant or non-public and provide accessors if needed.(éÜçr
+u
+java:S1104"ZMake languageEditor a static final constant or non-public and provide accessors if needed.(ñä®ùøÿÿÿÿ
+v
+java:S1104"[Make isProjectActive a static final constant or non-public and provide accessors if needed.(êÝ¿³ûÿÿÿÿ
+m
+java:S1104"WMake projectPath a static final constant or non-public and provide accessors if needed.(¿Óâ¤
+q
+java:S1104"VMake isCodeSave a static final constant or non-public and provide accessors if needed.(Œ„¬þøÿÿÿÿ
+j
+java:S1104"TMake codePath a static final constant or non-public and provide accessors if needed.(ÄñÔ€
+o
+java:S1104"TMake treeView a static final constant or non-public and provide accessors if needed.(åžúøÿÿÿÿ
+B
+java:S1444",Make this "public static editor" field final(°ÇÖØ
+N
+java:S1444"8Make this "public static scrollableTextArea" field final(Ö¾·‚
+I
+java:S1444"3Make this "public static treeViewPanel" field final(Ú¨œõ
+B
+java:S1444"-Make this "public static console" field final(éÜçr
+O
+java:S1444"4Make this "public static languageEditor" field final(ñä®ùøÿÿÿÿ
+P
+java:S1444"5Make this "public static isProjectActive" field final(êÝ¿³ûÿÿÿÿ
+G
+java:S1444"1Make this "public static projectPath" field final(¿Óâ¤
+K
+java:S1444"0Make this "public static isCodeSave" field final(Œ„¬þøÿÿÿÿ
+D
+java:S1444".Make this "public static codePath" field final(ÄñÔ€
+I
+java:S1444".Make this "public static treeView" field final(åžúøÿÿÿÿ

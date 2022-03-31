@@ -1,0 +1,12 @@
+com/alissonpedrina/cli/cmd/MyCommands.class
+com/alissonpedrina/cli/engine/SpringBootEngine.class
+com/alissonpedrina/cli/repo/RecipeRepository.class
+com/alissonpedrina/cli/ui/TextEditorDemo$1.class
+com/alissonpedrina/cli/ui/TextEditorDemo$2.class
+com/alissonpedrina/cli/engine/Akumo.class
+com/alissonpedrina/cli/ui/ListDialog.class
+com/alissonpedrina/cli/CliApplication.class
+com/alissonpedrina/cli/ui/TextEditorDemo.class
+com/alissonpedrina/cli/jshell/JShellTest.class
+com/alissonpedrina/cli/ui/HtmlEditorKitTest.class
+com/alissonpedrina/cli/domain/Recipe.class

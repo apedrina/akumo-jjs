@@ -1,0 +1,9 @@
+
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(²Á€œüÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€ºÇä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ç™÷þÿÿÿÿ
+Z
+java:S2095	"DUse try-with-resources or close this "JShell" in a "finally" clause.(¾¾ƒÊ

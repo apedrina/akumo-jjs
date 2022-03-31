@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-shell-demo" target="11" />
+      <module name="spring-shell-demo" target="15" />
       <module name="springshell-demo" target="11" />
     </bytecodeTargetLevel>
   </component>

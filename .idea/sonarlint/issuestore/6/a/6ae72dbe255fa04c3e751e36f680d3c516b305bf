@@ -1,0 +1,10 @@
+
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(‹ŸŸœ8Û·š°û/
+_
+java:S1128"=Remove this unused import 'org.springframework.lang.NonNull'.(¯†—žÿÿÿÿÿ8ß·š°û/
+[
+java:S1128">Remove this unused import 'org.springframework.lang.Nullable'.(—Ùë8à·š°û/
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8á·š°û/
+[
+java:S1128">Remove this unused import 'javax.validation.constraints.Size'.(›«´Ý8³¸š°û/

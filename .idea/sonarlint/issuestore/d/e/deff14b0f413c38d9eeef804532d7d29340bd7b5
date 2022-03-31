@@ -1,0 +1,31 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(Ó‡æùşÿÿÿÿ
+J
+java:S3740/"/Provide the parametrized type for this generic.(¤Ğ“Œûÿÿÿÿ
+U
+java:S1854/":Remove this useless assignment to local variable "aClass".(¤Ğ“Œûÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(²Á€œüÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ù¥›Öşÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ˆŠÚè
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Æó¹úÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ŒÜ»Ñ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Ã”«Ô
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(¥®ğw
+S	java:S106("9Replace this use of System.out or System.err by a logger.(•‰ÊÜüÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ç ¥åûÿÿÿÿ
+F
+java:S1481/"+Remove this unused "aClass" local variable.(¤Ğ“Œûÿÿÿÿ
+N
+java:S38781"8Remove this array creation and simply pass the elements.(ºëÚ®
+W
+java:S38780"ADisambiguate this call by either casting as "Class" or "Class[]".(ñëâ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(š¬ãûÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Û©ÎØÿÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(˜«šæ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(š‰÷
+f
+java:S1192"KDefine a constant instead of duplicating this literal "HelloWorld" 3 times.(Áä©„øÿÿÿÿ
